@@ -1,4 +1,4 @@
-## SubastaFlash - Smart Contract
+## Subasta - Smart Contract
 
 Este es el trabajo final del **Módulo 2**, donde se desarrolla un contrato inteligente para gestionar una **subasta dinámica** con funcionalidades básicas y avanzadas. El contrato está escrito en Solidity y desplegado en la red **Sepolia**.
 
